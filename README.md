@@ -44,7 +44,7 @@ copy .env.example .env
 3. **Configure .env File**
 ```env
 MONGODB_URI=your_mongodb_connection_string
-RAZORPAY_KEY_ID=rzp_live_Rn3w5m3jxnc59J
+RAZORPAY_KEY_ID=YOUR KEY ID
 RAZORPAY_KEY_SECRET=your_regenerated_secret_key
 RAZORPAY_WEBHOOK_SECRET=your_webhook_secret
 PORT=3000
@@ -326,3 +326,4 @@ https://your-backend-url.onrender.com/
 **🐸 Your backend is ready to deploy!**
 
 All code is production-ready with proper error handling, security, and MongoDB integration.
+
